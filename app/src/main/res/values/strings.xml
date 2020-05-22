@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">自动接听</string>
+    <string name="action_settings">关于</string>
+    <string name="n_t_n_t">注意：\n\t\t手机界面须保持在班级群聊天界面\n\t\t目前只测试了一般的语音接听/群课堂</string>
+    <string name="n_n">好嘛。我是受不了了，天天抢着进语音，晚一会就上报。因此“自动接听”应运而生。\n\n这款软件在开启手机的“辅助服务”后即可代替你自动接听班级群里的语音。</string>
+    <string name="jump_to">跳转到“无障碍服务”设置界面</string>
+    <string name="tas">(普通语音)人数大于多少时加入</string>
+    <string name="_8">默认8人</string>
+    <string name="z">8</string>
+    <string name="outmethod">退出方式</string>
+    <string name="out">被动退出</string>
+    <string name="check">检测人数退出</string>
+    <string name="autoSpaker">自动关闭扬声器</string>
+    <string name="dksjfw">打卡时间范围</string>
+    <string name="sdqssj">设定起始时间</string>
+    <string name="sdzzsj">设定终止时间</string>
+    <string name="fh"><![CDATA[>>]]></string>
+    <string name="tpxz">图片选择</string>
+    <string name="cxzkg">程序主开关</string>
+    <string name="zddk">自动打卡</string>
+    <string name="zdgbmkf">自动关闭麦克风</string>
+    <!-- Strings used for fragments for navigation -->
+</resources>

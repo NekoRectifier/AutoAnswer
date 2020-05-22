@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="xyz.sbfd.autoanswer.MainActivity">
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_info_outline_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/acc"
+        android:icon="@drawable/ic_accessibility_black_24dp"
+        android:title="打开无障碍服务页面"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/donate"
+        android:icon="@drawable/ic_attach_money_black_24dp"
+        android:title="慈善  (帮帮贫困学生)"
+        app:showAsAction="ifRoom" />
+</menu>
